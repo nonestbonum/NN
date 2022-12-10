@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Attractions</title>
+    <style>
+        body {
+            margin: auto;
+            background-image: url("https://perito-burrito.com/uploads/post/image/fc90ff198b96da0d843b1f7ca3716f5c566b61b3a714c2b7a5c5d02246b954bf/main_Нижне-Волжская-набережная_3.jpg");
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+        }
+
+        .scroll {
+            overflow: auto;
+            position: relative;
+            margin-top: 15%;
+            text-align: center;
+        }
+
+        .scroll table {
+            display: inline-block;
+            vertical-align: top;
+            max-width: 100%;
+            white-space: nowrap;
+            -webkit-overflow-scrolling: touch;
+            -ms-overflow-style: none;
+            overflow: auto;
+            scrollbar-width: none;
+        }
+
+        .scroll table::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+            color: rgba(1,1,1,0.00001);
+        }
+
+        img {
+            height: 300px;
+        }
+
+        td {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 15px;
+            color: #462411;
+        }
+        button {
+            background-color: rgba(70, 36, 17, 0.001);
+            border: 3px solid #462411;
+            color: white;
+            padding: 10px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin-top: 15px;
+        }
+        button:hover{
+            text-decoration: underline;
+            color: #462411;
+        }
+        .txt{
+            background-color: white;
+            text-align: center;
+        }
+        .all{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="all">
+    <div class="scroll">
+        <table>
+            <tbody>
+            <tr>
+                <td><img src="https://static.tildacdn.com/tild3738-3665-4137-b566-363661633563/image_122_2.png"></td>
+                <td><img src="https://a-minin.ru/WPress/wp-content/uploads/2015/09/Minin-Pogarsky1.jpg"></td>
+                <td><img src="https://img.freepik.com/premium-photo/monument-to-jules-verne-in-a-balloon-on-a-high-bank-of-the-oka-river-in-nizhny-novgorod_248906-704.jpg"></td>
+                <td><img src="https://tripofrussia.ru/wp-content/uploads/2021/07/nizhegorodski-kreml_1.jpg"></td>
+                <td><img src="https://media.izi.travel/7b7f3aad-ecfc-4feb-b235-ef6b80f41c67/10211cad-847d-4f5a-ab9e-7400dc48f8ec_800x600.jpg"></td>
+                <td><img src="https://ic.pics.livejournal.com/cr2/25595167/2834044/2834044_800.jpg"></td>
+                <td><img src="https://im.kommersant.ru/Issues.photo/REGIONS/NNOV/2018/236/KNN_005177_00047_1_t218_200001.jpg"></td>
+                <td><img src="https://media.kupo.la/thumbor/unsafe/preset/orig/images/2020/10/13/1602661962-af2d9e2370a0a988196c63d58259e50e.jpg"></td>
+            </tr>
+            <tr class="txt">
+                <td>Чкаловская лестница</td>
+                <td>Памятник Минину и Пожарскому</td>
+                <td>Памятник Жюлю Верну</td>
+                <td>Нижегородский Кремль</td>
+                <td>Усадьба Рукавишниковых</td>
+                <td>Домик Петра 1</td>
+                <td>Стрелка</td>
+                <td>Памятник Валерию Чкалову</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <form action="/NN_demo/more">
+        <button>НАЗАД</button>
+    </form>
+</div>
+</body>
+</html>
