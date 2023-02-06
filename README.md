@@ -2,7 +2,7 @@
 
 ## _The application allows users to calculate the cost of a trip by car depending on a various conditions_
 
-It have the following functionality:
+It has the following functionality:
 
 - General information;
 - History of the city;
