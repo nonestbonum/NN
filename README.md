@@ -4,13 +4,11 @@
 
 It have the following functionality:
 
-1. Displaying a route on the map.
-
-
-2. Engine tipe selection
-
-
-3. Getting the cost of the trip.
+- General information;
+- History of the city;
+- Attractions;
+- Hotels;
+- Restaurants.
 
 
 <h2 align="center">_Technologies_</h2>
