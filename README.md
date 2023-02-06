@@ -19,4 +19,4 @@ It has the following functionality:
 - JavaEE
 - HTML/CSS
 
-<img align="left" src="https://github.com/nonestbonum/nonestbonum/blob/main/free-png.ru-306-340x340.png" alt="VK" width="45px"/></a>
+<img align="senter" src="https://github.com/nonestbonum/NN/blob/main/NN_demo/screens_/Снимок%20экрана%202023-02-07%20в%2000.24.12.png" alt="start" width="200px"/></a>
