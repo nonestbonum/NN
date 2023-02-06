@@ -1,6 +1,6 @@
 <h1 align="center">Site displaying information about the city</h1>
 
-## _The application allows users to calculate the cost of a trip by car depending on a various conditions_
+## _Site for tourists in Nizhny Novgorod_
 
 It has the following functionality:
 
