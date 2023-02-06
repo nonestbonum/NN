@@ -18,3 +18,5 @@ It has the following functionality:
 - Apache Tomcat
 - JavaEE
 - HTML/CSS
+
+<img align="left" src="https://github.com/nonestbonum/nonestbonum/blob/main/free-png.ru-306-340x340.png" alt="VK" width="45px"/></a>
